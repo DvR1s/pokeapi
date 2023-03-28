@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokeapi/static/css/main.81852914.css",
+    "main.js": "/pokeapi/static/js/main.5361e3f1.js",
+    "static/media/wallpapersden.com_pokemon-unite-hd_2048x1152.jpg": "/pokeapi/static/media/wallpapersden.com_pokemon-unite-hd_2048x1152.061b8f7c1b4685553d7a.jpg",
+    "index.html": "/pokeapi/index.html",
+    "main.81852914.css.map": "/pokeapi/static/css/main.81852914.css.map",
+    "main.5361e3f1.js.map": "/pokeapi/static/js/main.5361e3f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81852914.css",
+    "static/js/main.5361e3f1.js"
+  ]
+}
